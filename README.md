@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jie Qiu </h1>
 <p align="center">
-  <em>A web development enthusiast</em>
+  <em>Developer Enthusiast</em>
 </p>
 
 <p align="center">
@@ -27,8 +27,4 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quuuuj&show_icons=true&theme=ambient_gradient" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quuuuj&layout=compact&theme=ambient_gradient" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quuuuj)](https://github.com/anuraghazra/github-readme-stats)
