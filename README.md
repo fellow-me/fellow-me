@@ -27,4 +27,8 @@
 
 ### 📊 GitHub Stats
 
-[![quuuuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=quuuuj)](https://github.com/quuuuj/github-readme-stats)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=quuuuj&show_icons=true&theme=omni" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=quuuuj&layout=compact&theme=omni" />
+</div>
