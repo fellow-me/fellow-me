@@ -27,4 +27,4 @@
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quuuuj)](https://github.com/anuraghazra/github-readme-stats)
+[![quuuuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=quuuuj)](https://github.com/quuuuj/github-readme-stats)
