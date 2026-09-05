@@ -22,6 +22,7 @@
 - 🔭 Education: Master of Cloud Computing, School of Computer Science and Technology, Guangdong University of Technology, Guangzhou, China
 - 🧠 Interests: **backend development**, **cloud computing scheduling**
 - 📫 Email: `qiujie1019@gmail.com`
+- 🐧 QQ Group: `967925576`
 
 ---
 
