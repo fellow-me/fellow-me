@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Education: Master of Artificial Intelligence, School of Computer Science and Technology, Guangdong University of Technology, Guangzhou, China
+- 🔭 Education: Master of Artificial Intelligence, School of Computer Science and Technology, Guangdong University of Technology, Guangzhou, China (Sep 2023 - Jun 2026)
 - 🧠 Interests: **AI Agent**, **Full-Stack Development**, **Cloud Workflow Scheduling**
 - 📫 Email: `qiujie1019@gmail.com` , `qiujie1019@126.com`
 - 🐧 QQ Group: `967925576`
